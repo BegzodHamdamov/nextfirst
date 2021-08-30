@@ -1,0 +1,5 @@
+export const SET_TODOS = "SET_TODOS";
+export const SET_PHOTOS = "SET_PHOTOS";
+export const SET_POSTS = "SET_POSTS";
+export const SET_ALBUMS = "SET_ALBUMS";
+export const TOGGLE_MENU = "TOGGLE_MENU";
